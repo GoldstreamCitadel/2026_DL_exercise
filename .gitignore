@@ -1,3 +1,46 @@
 .ipynb_checkpoints
 .idea/
 
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.zip
